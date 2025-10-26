@@ -1,3 +1,7 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/Zn5i6vR.png" alt="Tokyo Night Banner" width="100%">
+</p>
 
 
 🧠 Hey, I’m Saad
