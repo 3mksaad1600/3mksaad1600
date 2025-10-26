@@ -1,4 +1,32 @@
 
+
+🧠 Hey, I’m Saad
+
+🚩 Red Team Enthusiast | Reverse Engineer | Binary Breaker
+
+I dive deep into systems, break them apart, and learn how they really work.
+Mostly focused on pwn, reverse engineering, and offensive security — where code meets chaos.
+
+⚙️ Tech Arsenal
+
+Fluent in: Python, Assembly, HTML, CSS, 
+
+Currently mastering: C & C++ & JavaScript
+
+Playgrounds: CTFs, exploit dev, binary analysis, and low-level debugging
+
+🧩 What I Do
+
+Tear down binaries to find hidden logic
+
+Write exploits that talk to memory directly
+
+Build and break just for the fun of it
+
+“If it runs, it can be broken. The question is how deep you’re willing to dig.”
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3mksaad1600) 
 
