@@ -30,8 +30,8 @@
         <br>CSS<br><sub>2023 – Now</sub>
       </td>
        <td align="center" width="96">
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flinuxhandbook.com%2Fcourses%2Fbash%2F&psig=AOvVaw2BOTCI48C6nw0bUSWnOCtZ&ust=1761594920897000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIi-89PSwpADFQAAAAAdAAAAABAE)" width="48" height="48" alt="Bash script" />
-        <br>Python<br><sub>2023 – Now</sub>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsomtochukwu.hashnode.dev%2Fbash-scripting-the-skill-for-software-engineers&psig=AOvVaw2BOTCI48C6nw0bUSWnOCtZ&ust=1761594920897000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIi-89PSwpADFQAAAAAdAAAAABAo" width="48" height="48" alt="Bash script" />
+        <br>Bash script<br><sub>2023 – Now</sub>
       </td>
     </tr>
   </table>
