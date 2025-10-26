@@ -1,3 +1,79 @@
+<h2 align="center">👾 Heyaaa!</h2>
+
+<p align="center">
+  🧠 Cybersecurity & Red Team Enthusiast <br>
+  💥 Reverse Engineer | Binary Breaker | Pwn Addict <br>
+  💻 Learning the art of low-level chaos with <b>C</b> & <b>C++</b> <br>
+  🌸 Powered by caffeine, code, and anime
+</p>
+
+---
+
+### ⚙️ Languages I work with
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br>Python<br><sub>2023 – Now</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="48" height="48" alt="Assembly" />
+        <br>Assembly<br><sub>2024 – Now</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+        <br>HTML<br><sub>2023 – Now</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+        <br>CSS<br><sub>2023 – Now</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript<br><sub>2023 – Now</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+        <br>C<br><sub>2024 – Learning</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        <br>C++<br><sub>2024 – Learning</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+### 💻 My Systems
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="48" height="48" alt="Arch Linux" />
+        <br>Arch Linux<br><sub>2023 – Now</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" />
+        <br>Windows<br><sub>2023 – Now</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <sub>⚡ “Exploit. Debug. Repeat.” | Crafted under neon lights 🌃</sub>
+</p>
+
+
 
 🧠 Hey, I’m Saad
 
