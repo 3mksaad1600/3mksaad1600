@@ -4,12 +4,12 @@
   🧠 Cybersecurity & Red Team Enthusiast <br>
   💥 Reverse Engineer | Binary Breaker | Pwn Addict <br>
   💻 Learning the art of low-level chaos with <b>C</b> & <b>C++</b> <br>
-  🌸 Powered by caffeine, code, and anime
+  🌸 Powered by code, Tea and anime
 </p>
 
 ---
 
-### ⚙️ Languages I work with
+### ⚙️ Languages I use
 <p align="center">
   <table>
     <tr>
@@ -29,9 +29,19 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
         <br>CSS<br><sub>2023 – Now</sub>
       </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+### 🔥 Currently Learning
+<p align="center">
+  <table>
+    <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript<br><sub>2023 – Now</sub>
+        <br>JavaScript<br><sub>2024 – Learning</sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
@@ -72,6 +82,7 @@
 <p align="center">
   <sub>⚡ “Exploit. Debug. Repeat.” | Crafted under neon lights 🌃</sub>
 </p>
+
 
 
 
