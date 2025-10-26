@@ -16,7 +16,7 @@
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
         <br>Python<br><sub>2023 – Now</sub>
-      </td>
+      </td> 
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="48" height="48" alt="Assembly" />
         <br>Assembly<br><sub>2024 – Now</sub>
@@ -28,6 +28,10 @@
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
         <br>CSS<br><sub>2023 – Now</sub>
+      </td>
+       <td align="center" width="96">
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flinuxhandbook.com%2Fcourses%2Fbash%2F&psig=AOvVaw2BOTCI48C6nw0bUSWnOCtZ&ust=1761594920897000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIi-89PSwpADFQAAAAAdAAAAABAE)" width="48" height="48" alt="Bash script" />
+        <br>Python<br><sub>2023 – Now</sub>
       </td>
     </tr>
   </table>
