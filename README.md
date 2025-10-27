@@ -112,7 +112,8 @@ Playgrounds: CTFs, exploit dev, binary analysis, low-level debugging
 
 > “If it runs, it can be broken. The question is how deep you’re willing to dig.”
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px; display:flex; justify-content:center; gap:40px;">
+<!-- 🧠 CUSTOM LANGUAGE STATS SECTION -->
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px; display:flex; justify-content:center; flex-wrap:wrap; gap:40px; margin-top:20px;">
 
   <!-- Languages by Percentage -->
   <div style="text-align:left; color:white;">
@@ -199,7 +200,9 @@ Playgrounds: CTFs, exploit dev, binary analysis, low-level debugging
   </div>
 
 </div>
+<!-- END CUSTOM STATS -->
 
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3mksaad1600) 
@@ -226,4 +229,3 @@ Playgrounds: CTFs, exploit dev, binary analysis, low-level debugging
 ---
 
 [![](https://visitcount.itsvg.in/api?id=3mksaad1600&icon=0&color=0)](https://visitcount.itsvg.in)
-
