@@ -114,6 +114,28 @@ Playgrounds: CTFs, exploit dev, binary analysis, low-level debugging
 
 ---
 
+<div style="display:flex; gap:30px; justify-content:center; background:#0d1117; padding:20px; border-radius:15px;">
+  <div>
+    <h3 style="color:white;">Languages by Percentage</h3>
+    <div style="background:#444; height:8px; width:300px; border-radius:4px; overflow:hidden;">
+      <div style="width:44.66%; background:#8b949e; height:100%; float:left;"></div>
+      <div style="width:40.40%; background:#f39c12; height:100%; float:left;"></div>
+      <div style="width:7.99%; background:#58a6ff; height:100%; float:left;"></div>
+      <div style="width:2.21%; background:#ff66aa; height:100%; float:left;"></div>
+    </div>
+  </div>
+
+  <div>
+    <h3 style="color:white;">Languages by Time</h3>
+    <div style="background:#444; height:8px; width:300px; border-radius:4px; overflow:hidden;">
+      <div style="width:487px; background:#8b949e; height:100%; float:left;"></div>
+      <div style="width:155px; background:#1f6feb; height:100%; float:left;"></div>
+      <div style="width:132px; background:#f39c12; height:100%; float:left;"></div>
+    </div>
+  </div>
+</div>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3mksaad1600) 
 
