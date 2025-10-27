@@ -112,27 +112,92 @@ Playgrounds: CTFs, exploit dev, binary analysis, low-level debugging
 
 > “If it runs, it can be broken. The question is how deep you’re willing to dig.”
 
----
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px; display:flex; justify-content:center; gap:40px;">
 
-<div style="display:flex; gap:30px; justify-content:center; background:#0d1117; padding:20px; border-radius:15px;">
-  <div>
-    <h3 style="color:white;">Languages by Percentage</h3>
-    <div style="background:#444; height:8px; width:300px; border-radius:4px; overflow:hidden;">
-      <div style="width:44.66%; background:#8b949e; height:100%; float:left;"></div>
-      <div style="width:40.40%; background:#f39c12; height:100%; float:left;"></div>
-      <div style="width:7.99%; background:#58a6ff; height:100%; float:left;"></div>
-      <div style="width:2.21%; background:#ff66aa; height:100%; float:left;"></div>
+  <!-- Languages by Percentage -->
+  <div style="text-align:left; color:white;">
+    <h3>Languages by Percentage</h3>
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:90%; background:#58a6ff; height:100%;"></div>
     </div>
+    <p>Python — 90%</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:70%; background:#89e051; height:100%;"></div>
+    </div>
+    <p>Bash — 70%</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:20%; background:#6e7681; height:100%;"></div>
+    </div>
+    <p>C — 20%</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:30%; background:#ff66aa; height:100%;"></div>
+    </div>
+    <p>C++ — 30%</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:50%; background:#e34c26; height:100%;"></div>
+    </div>
+    <p>HTML — 50%</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:50%; background:#563d7c; height:100%;"></div>
+    </div>
+    <p>CSS — 50%</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:60%; background:#9e9e9e; height:100%;"></div>
+    </div>
+    <p>Assembly — 60%</p>
   </div>
 
-  <div>
-    <h3 style="color:white;">Languages by Time</h3>
-    <div style="background:#444; height:8px; width:300px; border-radius:4px; overflow:hidden;">
-      <div style="width:487px; background:#8b949e; height:100%; float:left;"></div>
-      <div style="width:155px; background:#1f6feb; height:100%; float:left;"></div>
-      <div style="width:132px; background:#f39c12; height:100%; float:left;"></div>
+  <!-- Languages by Time -->
+  <div style="text-align:left; color:white;">
+    <h3>Languages by Time</h3>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:120px; background:#58a6ff; height:100%;"></div>
     </div>
+    <p>Python — 120.6h</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:60px; background:#e34c26; height:100%;"></div>
+    </div>
+    <p>HTML — 60h</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:70px; background:#563d7c; height:100%;"></div>
+    </div>
+    <p>CSS — 70h</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:2px; background:#6e7681; height:100%;"></div>
+    </div>
+    <p>C — 2h</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:30px; background:#ff66aa; height:100%;"></div>
+    </div>
+    <p>C++ — 30h</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:20px; background:#f1e05a; height:100%;"></div>
+    </div>
+    <p>JavaScript — 20h</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:80px; background:#89e051; height:100%;"></div>
+    </div>
+    <p>Bash — 80h</p>
+
+    <div style="background:#30363d; width:300px; height:8px; border-radius:4px; overflow:hidden; margin-bottom:10px;">
+      <div style="width:200px; background:#9e9e9e; height:100%;"></div>
+    </div>
+    <p>Assembly — 200h</p>
   </div>
+
 </div>
 
 
