@@ -2,7 +2,7 @@
 
 <p align="center">
   🧠 Cybersecurity & Red Team Enthusiast <br>
-  💥 Reverse Engineer | Binary Breaker | Pwn Addict <br>
+  💥 Reverse Engineer | Binary Breaker | Reversing Addict <br>
   💻 Learning the art of low-level chaos with <b>C</b> & <b>C++</b> <br>
   🌸 Powered by code, Tea and anime
 </p>
